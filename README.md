@@ -1,6 +1,6 @@
 # fivewords
 Find 5 5 letter worlde words with no common letters
+I used this project to start learning rust.
 
 # Credits
-Code heavily inspired/some is stright up copied from @jonhoo (https://github.com/jonhoo).
-I used this project to start learning rust.
+Thanks for StandUpMaths on YouTube for the idea!
